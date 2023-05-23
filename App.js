@@ -25,6 +25,7 @@ import contact from "./components/mailer";
 
 
 
+
 import "./components/app.css";
 
 
@@ -43,6 +44,7 @@ function App() {
         <Route path = "/home" component={ home } />
         <Route path = "/agendas" component={ Requests } />
         <Route path = "/contact"  component={ contact } />
+      
 
 
        
