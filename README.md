@@ -5,7 +5,7 @@ This project aims to address the issue of ineffective utilization of government 
 To overcome these challenges, our solution focuses on effective customer and payment management. By incorporating customer feedback and streamlining the payment process, we can ensure the successful implementation of government-funded projects
 
 
-Key Features
+<h2>Key Features<h2>
 Customer Management: 
 The system allows for the efficient management of customer information, including adding new customers, reviewing customer details, and approving customer requests.
 Payment Management: 
