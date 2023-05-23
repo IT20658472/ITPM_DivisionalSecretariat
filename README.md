@@ -6,12 +6,12 @@ To overcome these challenges, our solution focuses on effective customer and pay
 
 
 <h2>Key Features</h2>
-Customer Management: </br>
-The system allows for the efficient management of customer information, including adding new customers, reviewing customer details, and approving customer requests.
-Payment Management: </br>
+<h4>Customer Management: </h4></br>
+<p>The system allows for the efficient management of customer information, including adding new customers, reviewing customer details, and approving customer requests.</p>
+<h4>Payment Management: </h4></br>
 The system provides comprehensive payment management, including additional payment handling. Users can view payment details and choose their preferred payment method.
 
-Request Management: </br>
+<h4>Request Management: </h4></br>
 The system facilitates the management of various requests, including adding, editing, deleting, and generating reports for requests.
 Add Request: 
 Users can submit requests for specific actions or services.
